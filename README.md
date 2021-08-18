@@ -7,4 +7,4 @@ Homework which requires you to integrate mongoDB cloud service, PWA practices, a
 - Heroku Deployment
 - connection troubleshooting
 
-Live demo found [HERE](https://hw18-workout-tracker.herokuapp.com/)!
+Live demo found [HERE](https://hw19-budgettracker.herokuapp.com/)!
